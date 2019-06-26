@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world2hahah
+=======
+ no1o world2hahahhahahhahahhahah
+>>>>>>> b889bfd461a49a19b0f6a811003ce451db5a93dc
